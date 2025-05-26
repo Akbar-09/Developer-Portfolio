@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(15, 15, 76);
+    background-color: rgb(20, 20, 96);
     color: white;
 }
 
@@ -193,8 +193,8 @@ nav li a:hover::after {
 
 .skills-container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
     gap: 15px;
 }
 
