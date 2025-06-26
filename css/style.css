@@ -208,6 +208,14 @@ nav li a:hover::after {
     font-size: 1.3rem;
 }
 
+.grid-space {
+    padding: 20px;
+}
+
+.text-space {
+    margin-top: 0%;
+}
+
 
 /* Contact section styling */
 
